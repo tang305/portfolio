@@ -1,2 +1,2 @@
 # splunktern-portfolio
-A compilation of certifications and other achievements throughout Lily Tang's CNOC Splunkternship
+A compilation of certificates and other achievements throughout Lily Tang's CNOC Splunkternship
